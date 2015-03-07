@@ -1,0 +1,6 @@
+Installer for SBT is broken, this thread has a working method:
+http://stackoverflow.com/questions/28543911/sbt-install-failure-with-aptitude-on-ubuntu-14-04
+
+wget https://dl.bintray.com/sbt/debian/sbt-0.13.7.deb
+sudo apt-get update
+sudo dpkg -i sbt-0.13.7.deb
