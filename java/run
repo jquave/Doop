@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./clean.sh
+
+./makeJar.sh
+
+./execute.sh
